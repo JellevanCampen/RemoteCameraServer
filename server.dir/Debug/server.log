@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Projects/Camera/CMakeLists.txt
+  CMake does not need to re-run because C:/Projects/Camera/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cc
+  server.vcxproj -> C:\Projects\Camera\build\Debug\server.exe
